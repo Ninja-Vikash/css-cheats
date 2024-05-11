@@ -5,8 +5,8 @@
 
 ## What's Inside
 
-- [BackgroundShadow]()
-- [HoverCards]()
+- [BackgroundShadow](https://github.com/Ninja-Vikash/css-cheats/blob/main/README.md#backgroundshadow)
+- [HoverCards](https://github.com/Ninja-Vikash/css-cheats/blob/main/README.md#hovercard)
 
 ***
 
