@@ -1,0 +1,28 @@
+* {
+  margin : 0;
+  padding : 0;
+  box-sizing : border-box;
+  font-family : 'Poppins';
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+.background-img {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    background: url("https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+    background-position: center;
+}
+.shadow {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-color: #111;
+    opacity: 0.8;
+}
